@@ -176,17 +176,17 @@ This insight may change if different visual filters are applied.
          
 ### [6] Top 5 customers
 
-Rank 1: Arushi
+Rank 1: Madan Mohan
 
-Rank 2: Bharat
+Rank 2: Arushi
 
-Rank 3: Priyanka
+Rank 3: Shrichand
 
-Rank 4: Vrinda
+Rank 4: Madhav
 
-Rank 5: Yogesh
+Rank 5: Priyanka
 
-       Thus, Arusuhi has made the highest expenditures in the store.
+       Thus, Madan Mohan has made the highest expenditures in the store.
        
 Thus, Tamil Nadu generates the highest profit for the store.
 
