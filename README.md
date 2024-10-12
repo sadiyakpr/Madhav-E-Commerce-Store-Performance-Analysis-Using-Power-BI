@@ -1,13 +1,16 @@
 # Madhav-E-Commerce-Store-Performance-Analysis-Using-Power-BI
 
-### What new have I implemented
+# What new have I implemented
 ✨ Bubble resizing on Map visual based on a feature |
 ✨ Button for clearing all slicers applied |
 ✨ Data Modelling on model view section |
 ✨ Decomposition Tree Visual |
 ✨ New Card visual for clubbing up multiple KPIs |
-✨ Vertical Dropdown style slicer |
----
+✨ Vertical Dropdown style slicer.
+
+# A quick glimpse of the report
+
+![Screenshot 2024-10-13 013437](https://github.com/user-attachments/assets/5133435c-cd35-418a-8c5c-babc7a8ff278)
 
 ### Dashboard PDF : [powerBIDashBoard3 (1).pdf](https://github.com/user-attachments/files/17347258/powerBIDashBoard3.1.pdf)
 
@@ -15,7 +18,7 @@
 
 This dashboard helps the e-commerce store understand its store better. It helps the store know their customers' preferences and shopping interests. 
 The dashboard helps access their improvement area. The dashboard consists of a profit decomposition tree visual which explains the profit share based on category and sub-category of products sold. 
-Negative sales profit indicates improvement areas to minimize the effects of negative profit.
+Negative sales indicate improvement areas to minimize the effects of negative profit.
 
 ### Steps followed 
 
@@ -115,10 +118,6 @@ Negative sales profit indicates improvement areas to minimize the effects of neg
 # Snapshot of Dashboard (Power BI Service)
 
  ![Screenshot 2024-10-12 020452](https://github.com/user-attachments/assets/8ad36fa6-0f61-4906-aa41-f3f7c2b22641)
-
-# Report Snapshot (Power BI DESKTOP)
-
- ![Screenshot 2024-10-12 020308](https://github.com/user-attachments/assets/e6ce872b-82d2-4acf-be30-b82677b34d23)
 
 # Insights
 
