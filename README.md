@@ -9,8 +9,7 @@
 ✨ Vertical Dropdown style slicer.
 
 # A quick glimpse of the report
-
-![Screenshot 2024-10-13 013437](https://github.com/user-attachments/assets/5133435c-cd35-418a-8c5c-babc7a8ff278)
+![Screenshot 2024-10-13 013437](https://github.com/user-attachments/assets/750320ae-5553-406d-ae45-7ace854fe18a)
 
 ### Dashboard PDF : [powerBIDashBoard3 (1).pdf](https://github.com/user-attachments/files/17347258/powerBIDashBoard3.1.pdf)
 
